@@ -270,8 +270,7 @@ home section
 #home {
   background-size: cover;
   background-position: center;
-  color: #222222;
-  text-shadow: 0 2px 4px rgba(0,0,0,0.1); 
+  color: #0095FF;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
